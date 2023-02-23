@@ -1,4 +1,6 @@
-# TGCtoGCM-GUI-Ver.
+# TGCtoGCM GUI Version.
 This is a GUI version of the old 2000s tool named TGCtoGCM.
-I did not create the original program. That was by some dude in 2004 lmao.
-PS: these files do not work properly YET
+
+Please keep in mind this is a WIP, and it does not save ISO/GCM yet.
+
+Compared to the original program, this is written in C#.
