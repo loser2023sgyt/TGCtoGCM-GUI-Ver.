@@ -5,4 +5,5 @@ This is a GUI version of the old 2000s tool named TGCtoGCM.
 
 
 Nerdy info:
+
 TGC is basically the same as GCM, except shrunken in size from 1.4 Gigabytes to merely a hundred/three-hundred or so Megabytes. It also parses metadata differently.
